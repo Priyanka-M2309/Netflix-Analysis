@@ -30,7 +30,7 @@ This Power BI dashboard/report provides a comprehensive analysis of Netflix data
     
     5) Tables for Detail Information for Type: Movies & Tv Shows
     
-    6) Country wise Map of Total Titles, Average Rating Per Title, Number of Votes, Number of Votes per Title
+    6) Country wise Map of Average Rating and % of Number of Votes
      
 
 ## METHODOLOGY:
