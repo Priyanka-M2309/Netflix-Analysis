@@ -49,4 +49,4 @@ The dashboard shows:
 
 ## DASHBOARD:
 
-![Netflix](https://github.com/Priyanka-M2309/Netflix-Analysis/blob/main/Dashboard.png)
+![Netflix](https://github.com/Priyanka-M2309/Netflix-Analysis/blob/main/Report.png)
